@@ -7,7 +7,7 @@ modified: 22-06-2023
 comments: false
 ---
 
-I was introduced to computer science and programming in middle school, when I was kinda forced to learn Basic and Visual Basic (Still not a huge fan of these languages). But I soon began to love programming once I started coding in C++ and Java and started creating some silly mini-games with some like-minded (nerdy) friends.
+I was introduced to computer science and programming in middle school, when I was forced to learn Basic and Visual Basic (Still not a huge fan of these languages). But I soon began to love programming once I started coding in C++ and Java and started creating some silly mini-games with some like-minded (nerdy) friends.
 
 ### New York University - Courant Institute of Mathematical Sciences
 <ul>
