@@ -9,12 +9,22 @@ comments: false
 
 All my projects can be found at <a href="https://github.com/beekayg15" target="_blank">Github</a>. Below mentioned are some of the important ones.
 
+### Collector Coin by NYU, DLM Group
+<ul>
+<li>Academic Project @ New York University (May 2024 - Aug. 2024)</li>
+<li>Worked as a part of a 2-member team in creating a market place for vintage car restoration and trading, backed by blockchain</li>
+<li>Done as a part of the 'Info Tech Projects' course</li>
+<li>Implemented features for restorers and buyers to bid for projects and cars through smart contracts<li> 
+<li>Enabled investors to invest on resortation projects using a new ERC20 token deployed on Ethereum</li>
+<li><b>Skills:</b> Java, Spring Boot, Blockchain, Solidity, ReactJS</li>
+</ul>
+
 ### Zero Cash Sapling Protocol using Arkworks
 <ul>
 <li>Academic Project @ New York University (Jan. 2024 - May 2024)</li>
 <li>Worked as a part of a 2-member team in implementing the ZCash Sapling Protocol in Rust using the Arkworks library</li>
 <li>Done as a part of the 'Cryptography for Blockchain' course</li>
-<li><b>Skills:</b> Rust, Cryptography, Blokchain, Zero-Knowledge Proofs, Arkworks <a target="_blank" href="https://github.com/beekayg15/SaplingTest">[Code]</a></li>
+<li><b>Skills:</b> Rust, Cryptography, Blockchain, Zero-Knowledge Proofs, Arkworks <a target="_blank" href="https://github.com/beekayg15/SaplingTest">[Code]</a></li>
 </ul>
 
 ### Defense Against Evasion Attacks in Machine Learning Models

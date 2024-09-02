@@ -22,8 +22,8 @@ comments: false
 <ul>
 <li><b>Project Intern</b> (May. 2021 to Nov. 2021) <a href="../files/Samsung.pdf" target="_blank">[Certificate]</a></li>
 <li>Worked in collaboration with Samsung R&D's IoT team, as a part of the 'Samsung PRISM' program.</li>
-<li>Was managed and advided by <a href="https://www.linkedin.com/in/suyambulingamrm/" target="_blank">Suyambulingam Rathinasamy Muthupandi</a>.</li>
-<li>Conceived a novel machine learning model that makes decisions to execute JavaScript compute units locally or remotely by predicting and comparing the time of execution in the local machine and 7 different servers by analyzing execution time of 10000+ executions of 6 sorting algorithms in each machine.</li>
-<li>Achieved an accuracy of 97.1% in predicting the execution time of a given application in multiple devices using a single model and an accuracy of 99.2% in making the correct offloading decision and received a <a href="../files/Samsung.pdf" target="_blank">Certificate of Excellence</a> for the work done in solving the offload decision making problem and reducing the average time to execute a compute unit by 37%.</li>
+<li>Was managed and advised by <a href="https://www.linkedin.com/in/suyambulingamrm/" target="_blank">Suyambulingam Rathinasamy Muthupandi</a>.</li>
+<li>Conceived a novel machine learning model that makes decisions to execute JavaScript compute units locally or remotely by predicting and comparing the time of execution in the local machine and 7 different servers by analyzing execution time of 10000+ executions of similar complexity algorithms in each machine/server.</li>
+<li>Achieved an accuracy of 87.1% in predicting the execution time of a given application in multiple devices using a single model and an accuracy of 89.2% in making the correct offloading decision and received a <a href="../files/Samsung.pdf" target="_blank">Certificate of Excellence</a> for the work done in solving the offload decision making problem and reducing the average time to execute a compute unit by 37%.</li>
 <li><b>Skills:</b> Flutter, ReactJS, Python, PyTorch, Machine Learning, Internet of Things</li>
 </ul>
