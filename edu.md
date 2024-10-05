@@ -20,7 +20,7 @@ I was introduced to computer science and programming in middle school, when I wa
 ### PSG College of Technology, Coimbatore, India
 <ul>
 <li><b>BE in Computer Science & Engineering</b> (July. 2019 - May 2023)</li>
-<li>CGPA: 9.81/10.00</li>
+<li>CGPA: 9.86/10.00</li>
 <li><a href="../files/PSG_BOGS.pdf" target="_blank">Best Out Going Student</a> for the batch of 2023</li>
 <li><a href="../files/PSG_DRH.pdf" target="_blank">Department Gold Medalist</a> for securing the highest CGPA in the batch consistently for 4 years</li>
 <li>Served as the <i>Secretary</i> of the <a href="https://x.com/cseapsgtech" target="_blank">Computer Science and Engineering Association</a> from Aug. 2022 to May 2023 and as the <i>Joint Secretary</i> earlier from Aug. 2021 to Jul. 2022</li>
