@@ -36,7 +36,7 @@ links:
     url: /publications/
   - title: CV
     external: true
-    url: "https://github.com/beekayg15/Barath-Ganesh-Kumar/Assets/Documents/Resume/beekayg_resume.pdf"
+    url: "./files/beekayg_CV.pdf"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
