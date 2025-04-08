@@ -9,8 +9,8 @@ disqus_shortname: beekayg15
 # Owner/author information
 owner:
   name:           Barath Kumar GaneshKumar
-  avatar:         beekayg.png
-  bio:            I am a graduate student at New York University pursuing MS in Computer Science. I am intereseted in Algorithms, Cryptography, Blockchain, Machine Learning, and Full-Stack Development. 
+  avatar:         beekayg.jpg
+  bio:            I am a graduate student at New York University pursuing MS in Computer Science. I am intereseted in Algorithms, Cryptography, and Blockchains. 
   email:          barathganeshkumar2002@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: beekayg15
@@ -36,7 +36,7 @@ links:
     url: /publications/
   - title: CV
     external: true
-    url: "./files/beekayg_CV.pdf"
+    url: "https://drive.google.com/file/d/1XKjMP2w7stPuvZyc-nYiszOp0KOmZzMp/view"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich

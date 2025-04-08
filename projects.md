@@ -9,6 +9,32 @@ comments: false
 
 All my projects can be found at <a href="https://github.com/beekayg15" target="_blank">Github</a>. Below mentioned are some of the important ones.
 
+### Optimizing Zero-Check Protocol
+<ul>
+<li>Research Project @ New York University (Jan. 2025 - Present)</li>
+<li>Working along side researchers at Brooklyn Application, Architecture and Hardware Lab (BAAHL) in implementing the zero check protocol using Arkworks, to check if a univariate polynomial evaluates to 0 on a given set of field elements optimized for hardware accelerators</li>
+<li>Optimizing and benchmarking the performance against sum-check based zero-check protocol on composition of multi-linear functions introduced in [CBBZ’23] ’HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates’</li>
+<li><b>Skills:</b> Arkworks, ZK-SNARKs, Rust<a target="_blank" href="https://github.com/beekayg15/zerocheck">[Code]</a></li>
+</ul>
+
+### Doubly-Efficient Interactive Proofs
+<ul>
+<li>Research Project @ New York University (Sept. 2024 - Present)</li>
+<li>Studying the Doubly-Efficient Interactive Proof systems proposed earlier in [GRK’08], [RRR’15], and [GR’16], and researching on existence of classes beyond N C and SC for which doubly-efficient proof systems exist</li>
+<li>Studying the requirements to refute the Non-deterministic Strong Exponential Time Hypothesis (NSETH) using the assumption that k-OV ∈ DE-IP and de-randomization assumptions</li>
+<li>Studying the barrier in achieving efficient non-interactive proofs beyond a certain communication threshold</li>
+<li><b>Skills:</b> Interactive Proofs, Computational Complexity Theory</li>
+</ul>
+
+### Quantum-Secure Accumulation Schemes
+<ul>
+<li>Research Project @ New York University (Sept. 2024 - Dec. 2024)</li>
+<li>Implemented the accumulation scheme without homomorphic commitments as suggested in [BMNW’24] ’Accumulation without Homomorphism’ using quantum-secure Merkle trees and error correcting codes using Arkworks</li>
+<li>Reviewing relevant literature to develop and optimize the Accumulation scheme by accumulating proofs in a tree-like folding scheme</li>
+<li>Implemented and optimized [BMNW’24b] ’ARC: Accumulation for Reed-Solomon Codes’ using Arkworks</li>
+<li><b>Skills:</b> Accumulation Schemes, Arkworks, Rust <a target="_blank" href="https://github.com/beekayg15/bd_accumulation">[Code]</a></li>
+</ul>
+
 ### Collector Coin by NYU, DLM Group
 <ul>
 <li>Academic Project @ New York University (May 2024 - Aug. 2024)</li>
