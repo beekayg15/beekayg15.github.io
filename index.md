@@ -6,8 +6,9 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
+I am a Cryptography Engineer at Nexus Laboratories Inc. working as a part of the zkVM team.
 
-I am a second year MS CS student at <a href="https://cs.nyu.edu/home/index.html" target="_blank">NYU Courant Institute of Mathematical Science</a>. Most of my coursework is focused towards Algorithms and Cryptography and I actively take part in the weekly seminars with the NYU <a href="https://csefoundations.engineering.nyu.edu/seminar.html" target="_blank">Theory Group</a> and <a href="https://cs.nyu.edu/crg/" target="_blank">Crypto Group</a>.
+Until recently, I was a MS CS student at <a href="https://cs.nyu.edu/home/index.html" target="_blank">NYU Courant Institute of Mathematical Science</a>, specialising in Algorithms and Cryptography.
 
 <br />
 I was a Software Development Engineer Intern working in Full-Stack Development at <b>Amazon</b>, prior to my masters. I also used to work as a Project Intern at <b>Samsung Research Institute</b>, alongside their IoT team.

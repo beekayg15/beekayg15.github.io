@@ -20,19 +20,19 @@ Most of the skills presented over here were acquired through my technical intern
       <td>
       Rust, Java, Python, C++, C, JavaScript, TypeScript, HTML, CSS, SQL 
       </td>
-      <td>Expert(>⭐⭐⭐⭐)</td>
+      <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
       <td>
       Solidity, Circom, Kotlin
       </td>
-      <td>Intermediate(>⭐⭐⭐)</td>
+      <td>⭐⭐⭐</td>
     </tr>
     <tr>
       <td>
       Swift, C#, Scheme, ML, Prolog
       </td>
-      <td>Beginner(>⭐⭐)</td>
+      <td>⭐⭐</td>
     </tr>
   </tbody>
 </table>
@@ -46,15 +46,15 @@ Most of the skills presented over here were acquired through my technical intern
   <tbody align="center">
     <tr>
       <td>
-      Git, AWS, Docker, Spring Boot, RESTful APIs, ReactJS, Bootstrap, Polaris
+      Git, AWS, Docker, Spring Boot, RESTful APIs, ReactJS, NextJS, Bootstrap, Polaris, GCP
       </td>
-      <td>Expert(>⭐⭐⭐⭐)</td>
+      <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
       <td>
       Azure, Flask
       </td>
-      <td>Intermediate(>⭐⭐⭐)</td>
+      <td>⭐⭐⭐</td>
     </tr>
   </tbody>
 </table>
@@ -70,13 +70,13 @@ Most of the skills presented over here were acquired through my technical intern
       <td>
       Arkworks, Tensorflow, PyTorch
       </td>
-      <td>Expert(>⭐⭐⭐⭐)</td>
+      <td>⭐⭐⭐⭐</td>
     </tr>
     <tr>
       <td>
       scikit-learn
       </td>
-      <td>Intermediate(>⭐⭐⭐)</td>
+      <td>⭐⭐⭐</td>
     </tr>
   </tbody>
 </table>

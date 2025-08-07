@@ -7,6 +7,14 @@ modified: 22-06-2023
 comments: false
 ---
 
+### Nexus Laboratories Inc., San Francisco, USA 
+<ul>
+<li><b>Cryptography Engineer</b> (Jun. 2025 to Present)</li>
+<li>Working as a part of the zkVM team in imporving the efficient and cost of the Nexus zkVM.</li>
+<li>Also working towards improving the user experience and onboarding of naive users in NexusOS and building dApps</li>
+<li><b>Skills:</b> Rust, NextJS, TypeScript, GCP, Solidity, Hardhat</li>
+</ul>
+
 ### Amazon Development Center, Chennai, India 
 <ul>
 <li><b>Software Development Engineer Intern</b> (Jan. 2023 to Jun. 2023) <a href="../files/Amazon.pdf" target="_blank">[Certificate]</a></li>
