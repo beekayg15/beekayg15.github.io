@@ -10,9 +10,13 @@ comments: false
 ### Nexus Laboratories Inc., San Francisco, USA 
 <ul>
 <li><b>Cryptography Engineer</b> (Jun. 2025 to Present)</li>
-<li>Working as a part of the zkVM team in imporving the efficient and cost of the Nexus zkVM.</li>
-<li>Also working towards improving the user experience and onboarding of naive users in NexusOS and building dApps</li>
-<li><b>Skills:</b> Rust, NextJS, TypeScript, GCP, Solidity, Hardhat</li>
+<li>Series A startup backed by Lightspeed, Pantera and Dragonfly</li>
+<li>Working as the lead backend engineer in implementing and maintaining the services required for the Nexus DEX and handling the devOps and system design</li>
+<li>Formulated and implemented the matching algorithm, liquidation, funding rates, and auto-deleveraging for the decentralized exchange</li>
+<li>Designed and implemented the on-chain oracle and the indexer optimized to keep up with the sub-second block times for the Nexus L1</li>
+<li>Working alongside the zkVM team in researching, implementing, optimizing, and benchmarking various proof systems</li>
+<li>Improving the user experience and onboarding of naive users in NexusOS and building dApps</li>
+<li><b>Skills:</b> Rust, RETH, NextJS, TypeScript, GCP, Solidity, Hardhat</li>
 </ul>
 
 ### Amazon Development Center, Chennai, India 

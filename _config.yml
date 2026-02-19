@@ -10,7 +10,7 @@ disqus_shortname: beekayg15
 owner:
   name:           Barath Kumar GaneshKumar
   avatar:         beekayg.jpg
-  bio:            I am a Cryptography Engineer at Nexus. I am super intereseted in Algorithms, Cryptography, Game Theory and Blockchains. 
+  bio:            I am a Cryptography Engineer at Nexus. I am intereseted in Algorithms, Cryptography, and Blockchains. 
   email:          barathganeshkumar2002@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: beekayg15
@@ -36,7 +36,7 @@ links:
     url: /publications/
   - title: CV
     external: true
-    url: "https://drive.google.com/file/d/1XKjMP2w7stPuvZyc-nYiszOp0KOmZzMp/view"
+    url: "https://drive.google.com/file/d/172VQPxC7uu79FVg5q6GdFcTr7yrjpx7Y/view?usp=sharing"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
