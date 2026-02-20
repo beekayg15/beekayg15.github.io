@@ -7,6 +7,7 @@ image:
   feature: trees.jpg
 ---
 I am a Cryptography Engineer at Nexus Laboratories Inc. working as a part of the zkVM team.
+<br />
 
 Until recently, I was a MS CS student at <a href="https://cs.nyu.edu/home/index.html" target="_blank">NYU Courant Institute of Mathematical Science</a>, specialising in Algorithms and Cryptography.
 
