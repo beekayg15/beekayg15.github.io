@@ -11,11 +11,12 @@ comments: false
 <ul>
 <li><b>Cryptography Engineer</b> (Jun. 2025 to Present)</li>
 <li>Series A startup backed by Lightspeed, Pantera and Dragonfly</li>
-<li>Working as the lead backend engineer in implementing and maintaining the services required for the Nexus DEX and handling the devOps and system design</li>
+<li>Working as the lead backend engineer in implementing and maintaining the services required for the Nexus DEX and handling the devOps and system design using Kubernetes clusters, TiDB and Redis Cache</li>
 <li>Formulated and implemented the matching algorithm, liquidation, funding rates, and auto-deleveraging for the decentralized exchange</li>
 <li>Designed and implemented the on-chain oracle and the indexer optimized to keep up with the sub-second block times for the Nexus L1</li>
 <li>Working alongside the zkVM team in researching, implementing, optimizing, and benchmarking various proof systems</li>
-<li>Improving the user experience and onboarding of naive users in NexusOS and building dApps</li>
+<li>Improving the user experience and onboarding of 2M+ users in NexusOS and building dApps</li>
+<li>Worked on the Testnet III distributed proving network and rewards system for 200K+ users</li>
 <li><b>Skills:</b> Rust, RETH, NextJS, TypeScript, GCP, Solidity, Hardhat</li>
 </ul>
 
