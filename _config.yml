@@ -1,7 +1,7 @@
 title:            Barath Kumar's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //beekayg15.github.io
+url:              https://beekayg15.pages.dev
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: beekayg15
