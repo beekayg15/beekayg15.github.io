@@ -49,6 +49,7 @@ All my projects can be found at <a href="https://github.com/beekayg15" target="_
 <ul>
 <li>Academic Project @ New York University (Jan. 2024 - May 2024)</li>
 <li>Worked as a part of a 2-member team in implementing the ZCash Sapling Protocol in Rust using the Arkworks library</li>
+<li>Reduced the number of constraints from 120K to 55K in the transaction proofs using circuit friendly hashes and curves</li>
 <li>Done as a part of the 'Cryptography for Blockchain' course</li>
 <li><b>Skills:</b> Rust, Cryptography, Blockchain, Zero-Knowledge Proofs, Arkworks <a target="_blank" href="https://github.com/beekayg15/SaplingTest">[Code]</a></li>
 </ul>
